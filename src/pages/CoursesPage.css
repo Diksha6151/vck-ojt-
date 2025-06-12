@@ -28,11 +28,10 @@ textarea {
 }
 
 .cta-button {
-  background-color: #007bff;
+  text-align: center;
+  background-color: green;
   color: white;
-  padding: 0.6rem 1.2rem;
   border: none;
-  border-radius: 5px;
   font-weight: bold;
   cursor: pointer;
 }
@@ -97,7 +96,7 @@ textarea {
 .container th {
   background-color: #666; /* Header background */
   font-weight: bold;
-  color: #fff; /* White text for contrast */
+  color:#fff h ; /* White text for contrast */
 }
 .form-container {
   width: 550px;
